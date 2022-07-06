@@ -1,0 +1,9 @@
+[06.07.2022 18:25:00]
+Hook started... Timer started
+
+[06.07.2022 18:25:21]
+<From SendMail> Return code: 4878472
+
+[06.07.2022 19:28:54]
+Hook started... Timer started
+
